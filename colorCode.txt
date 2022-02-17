@@ -1,0 +1,5 @@
+Red Color HEX Code
+
+Use the below HEX code for using red color
+
+#00f
